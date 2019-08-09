@@ -5,6 +5,7 @@ public class test1 {
     public void t() {
         System.out.println();
         System.out.println("0808");
+        System.out.println("0808");
     }
 
 
